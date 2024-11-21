@@ -1,0 +1,34 @@
+1. Which of the following is the primary function of a DBMS?
+A) To store files
+B) To manage user permissions
+C) To manage and control data 
+D) To maintain hardware components
+Answer:C
+
+2. What does SQL stand for in the context of databases?
+A) Structured Query Language 
+B) Simple Query Language 
+C) Standard Query Logic 
+D) Structured Quick Language
+Answer:A
+
+3. In the relational model of databases, data is stored in?
+A) Tables 
+B) Documents 
+C) Files 
+D) Objects
+Answer:A
+
+4. Which of the following is a type of relationship in a relational database?
+A) One-to-One 
+B) Many-to-One 
+C) One-to-Many 
+D) All of the above
+Answer:D
+
+5. Which of the following SQL commands is used to remove a table from a database?
+A) DELETE 
+B) DROP 
+C) REMOVE 
+D) TRUNCATE
+Answer:B
